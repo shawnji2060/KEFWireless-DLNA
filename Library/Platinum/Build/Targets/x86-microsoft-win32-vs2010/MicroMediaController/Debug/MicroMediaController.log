@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\..\..\..\..\Neptune\Build\Targets\x86-microsoft-win32-vs2010\Neptune\Neptune.vcxproj' does not exist.
+  PltMicroMediaController.cpp
+  main.cpp
+  正在生成代码...
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  MicroMediaController.vcxproj -> C:\Users\My-PC\Documents\Visual Studio 2015\Projects\Platinum\Build\Targets\x86-microsoft-win32-vs2010\Debug\MicroMediaController.exe
+  MicroMediaController.vcxproj -> C:\Users\My-PC\Documents\Visual Studio 2015\Projects\Platinum\Build\Targets\x86-microsoft-win32-vs2010\Debug\MicroMediaController.pdb (Full PDB)
+  子目录或文件 C:\Users\My-PC\Documents\Visual Studio 2015\Projects\Platinum\Build\Targets\x86-microsoft-win32-vs2010\MicroMediaController\..\..\..\..\Targets\x86-microsoft-win32-vs2010\Debug 已经存在。
+  已复制         1 个文件。

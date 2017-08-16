@@ -1,0 +1,7 @@
+﻿  TimeTest1.cpp
+TimeTest1.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  TimeTest.vcxproj -> C:\Users\My-PC\Documents\Visual Studio 2015\Projects\Platinum\Build\Targets\x86-microsoft-win32-vs2010\Debug\TimeTest.exe
+  TimeTest.vcxproj -> C:\Users\My-PC\Documents\Visual Studio 2015\Projects\Platinum\Build\Targets\x86-microsoft-win32-vs2010\Debug\TimeTest.pdb (Full PDB)
+  子目录或文件 C:\Users\My-PC\Documents\Visual Studio 2015\Projects\Platinum\Build\Targets\x86-microsoft-win32-vs2010\TimeTest\..\..\..\..\Targets\x86-microsoft-win32-vs2008\Debug 已经存在。
+  C:\Users\My-PC\Documents\Visual Studio 2015\Projects\Platinum\Build\Targets\x86-microsoft-win32-vs2010\Debug\TimeTest.exe
+  复制了 1 个文件
